@@ -1,0 +1,378 @@
+header {
+  background: #fafafa;
+  height: 80px;
+  width: 1862px;
+  position: relative;
+}
+header .Barra_header {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+}
+header .Barra_header .FE {
+  position: absolute;
+  top: 35%;
+  font-size: 25px;
+  left: 20%;
+  font-weight: bold;
+}
+header .Barra_header .FE .Front {
+  color: #40b8f0;
+}
+header .Barra_header .FE .End {
+  color: #fe5254;
+}
+header .Barra_header .info {
+  left: 55%;
+  top: 35%;
+  position: absolute;
+}
+header .Barra_header .info .HOME {
+  color: #fe5254;
+  margin-left: 25px;
+}
+header .Barra_header .info .ABOUT {
+  color: #000;
+  margin-left: 25px;
+}
+header .Barra_header .info .Services {
+  color: #fe5254;
+  margin-left: 25px;
+}
+header .Barra_header .info .Portfolio {
+  color: #fe5254;
+  margin-left: 25px;
+}
+header .Barra_header .info .Blog {
+  color: #000;
+  margin-left: 25px;
+}
+header .Barra_header .info .Message {
+  color: #000;
+  margin-left: 25px;
+}
+header .Barra_header .Boton {
+  height: 32px;
+  width: 120px;
+  background-color: #fe3f40;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  position: absolute;
+  left: 85%;
+  top: 24%;
+  border-radius: 16px;
+  border: none;
+}
+section article .imagenes {
+  display: inline-block;
+  position: relative;
+}
+section article .imagenes .ImgSI {
+  display: inline-block;
+}
+section article .imagenes .ImgSD {
+  display: inline-block;
+}
+section article .imagenes .ImgSD img {
+  position: absolute;
+  left: 1770px;
+  bottom: 180px;
+}
+section article .contenido {
+  display: inline-block;
+  vertical-align: top;
+}
+section article .contenido .text {
+  font-family: "Arial";
+  width: 400px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 150px;
+  margin-top: 260px;
+}
+section article .contenido .text .txt1 {
+  font-weight: bold;
+  color: #fe3f40;
+}
+section article .contenido .text .txt2 {
+  line-height: 1.3;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #000;
+  font-size: 45px;
+}
+section article .contenido .text .txt2 .DI {
+  color: #40b8f0;
+}
+section article .contenido .text .txt2 .SEO {
+  color: #fe3f40;
+}
+section article .contenido .text .txt3 {
+  margin-top: 20px;
+  color: #000;
+  line-height: 1.3;
+}
+section article .contenido .text .txt3 .TM {
+  color: #3683fd;
+}
+section article .contenido .text .rect {
+  margin-top: 20px;
+  position: relative;
+  height: 55px;
+  width: 400px;
+  border-radius: 28px;
+  background: #40b8f0;
+}
+section article .contenido .text .rect .txt {
+  position: absolute;
+  top: 20px;
+  left: 14px;
+  color: #fff;
+}
+section article .contenido .text .rect .AS {
+  position: absolute;
+  left: 290px;
+  top: 7px;
+  height: 40px;
+  width: 100px;
+  border-radius: 21px;
+  background: #fff;
+  border: none;
+}
+section article .contenido .text .rect .AS .AnS {
+  color: #f00;
+}
+section article .contenido .imgg {
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 70px;
+}
+.sec2 {
+  height: 800px;
+  width: 1862px;
+  background-image: url("../imgs/about-bg.png");
+  background-size: cover;
+}
+.sec2 article {
+  position: relative;
+}
+.sec2 article .imagen {
+  display: inline-block;
+  position: relative;
+}
+.sec2 article .imagen img {
+  display: inline-block;
+  position: absolute;
+  left: 330px;
+  top: 220px;
+}
+.sec2 article .contenido {
+  width: 500px;
+  display: inline-block;
+  position: absolute;
+  left: 800px;
+  top: 250px;
+}
+.sec2 article .contenido .tabla {
+  color: #fff;
+  position: relative;
+}
+.sec2 article .contenido .tabla .fila1 .columna1 {
+  width: 180px;
+  position: relative;
+}
+.sec2 article .contenido .tabla .fila1 .columna1 .txt {
+  position: absolute;
+  left: 80px;
+  bottom: 10px;
+  padding-top: 20px;
+  line-height: 2;
+}
+.sec2 article .contenido .tabla .fila1 .columna1 .txt .texto {
+  padding-top: 20px;
+}
+.sec2 article .contenido .tabla .fila1 .columna2 {
+  left: 200px;
+  position: relative;
+  width: 100px;
+}
+.sec2 article .contenido .tabla .fila1 .columna2 .txt {
+  position: absolute;
+  left: 80px;
+  bottom: 10px;
+  padding-top: 20px;
+  line-height: 2;
+}
+.sec2 article .contenido .tabla .fila1 .columna2 .txt .titulo {
+  width: 100px;
+}
+.sec2 article .contenido .tabla .fila1 .columna2 .txt .texto {
+  padding-top: 20px;
+}
+.sec2 article .contenido .tabla .fila2 {
+  padding-top: 50px;
+}
+.sec2 article .contenido .tabla .fila2 .columna1 {
+  padding-top: 60px;
+  width: 180px;
+  position: relative;
+}
+.sec2 article .contenido .tabla .fila2 .columna1 .txt {
+  position: absolute;
+  left: 80px;
+  bottom: 10px;
+  padding-top: 20px;
+  line-height: 2;
+}
+.sec2 article .contenido .tabla .fila2 .columna1 .txt .texto {
+  padding-top: 20px;
+}
+.sec2 article .contenido .tabla .fila2 .columna2 {
+  position: relative;
+  left: 200px;
+  width: 200px;
+  position: relative;
+}
+.sec2 article .contenido .tabla .fila2 .columna2 .txt {
+  position: absolute;
+  left: 80px;
+  bottom: 10px;
+  padding-top: 20px;
+  line-height: 2;
+}
+.sec2 article .contenido .tabla .fila2 .columna2 .txt .texto {
+  padding-top: 20px;
+}
+.sec2 article .contenido .tabla .titulo {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+}
+.sec2 article .contenido .tabla .texto {
+  text-decoration: none;
+}
+.sec3 {
+  background-image: url("../imgs/contact-bg.png");
+  height: 900px;
+  width: 1862px;
+  background-size: cover;
+  position: relative;
+}
+.sec3 article {
+  height: 900px;
+  width: 1862px;
+}
+.sec3 article .contenido2 {
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  vertical-align: center;
+  top: 400px;
+  left: 400px;
+}
+.sec3 article .contenido2 .text2 {
+  color: #fff;
+  position: absolute;
+  width: 300px;
+  font-family: "arial";
+  position: absolute;
+}
+.sec3 article .contenido2 .text2 .txt1 {
+  font-size: 30px;
+}
+.sec3 article .contenido2 .text2 .txt2 {
+  top: 100px;
+  font-size: 15px;
+  position: absolute;
+  color: #fff;
+}
+.sec3 article .table {
+  position: absolute;
+  top: 200px;
+  display: inline-block;
+}
+.sec3 article .figura {
+  color: #fff;
+  display: inline-block;
+  height: 400px;
+  width: 500px;
+  background-color: #fff;
+  border-radius: 50px;
+  position: absolute;
+  left: 400px;
+  top: -70px;
+}
+.sec3 article .figura .figura1 {
+  display: inline-block;
+  height: 30px;
+  width: 200px;
+  background-color: #3683fd;
+  border-radius: 25px;
+  position: absolute;
+  top: 60px;
+  left: 30px;
+  justify-content: center;
+}
+.sec3 article .figura .figura1 .s1 {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+}
+.sec3 article .figura .figura2 {
+  height: 30px;
+  width: 200px;
+  background-color: #3683fd;
+  border-radius: 25px;
+  position: absolute;
+  top: 60px;
+  left: 260px;
+}
+.sec3 article .figura .figura2 .s2 {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+}
+.sec3 article .figura .figura3 {
+  height: 30px;
+  width: 430px;
+  background-color: #3683fd;
+  border-radius: 25px;
+  position: absolute;
+  top: 110px;
+  left: 30px;
+}
+.sec3 article .figura .figura3 .s3 {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+}
+.sec3 article .figura .figura4 {
+  height: 130px;
+  width: 430px;
+  background-color: #3683fd;
+  border-radius: 25px;
+  position: absolute;
+  top: 160px;
+  left: 30px;
+}
+.sec3 article .figura .figura4 .s4 {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+}
+.sec3 article .figura .boton1 {
+  height: 40px;
+  width: 150px;
+  background-color: #40b8f0;
+  border-radius: 25px;
+  position: absolute;
+  top: 310px;
+  left: 30px;
+  border: none;
+  color: #fff;
+}
+.sec3 article .imgf {
+  position: absolute;
+  left: 880px;
+}
